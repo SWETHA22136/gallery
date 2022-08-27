@@ -1,0 +1,21 @@
+div{
+    width: 18%;
+    height: 434px;
+    /* background-color: grey; */
+    border: solid 3px black;
+    float: left;
+    text-align: center;
+    padding: 5px;
+}
+img{
+    width: 100%;
+    height: 200px;
+    border-radius: 100px;
+}
+
+
+/* book gallery */
+/* book name */
+/* book image  */
+/* author name */
+/* description */
